@@ -24,19 +24,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cloudposse-github-actions/github-action-yaml-config-query.git"
+    "url": "git+https://github.com/itisopen-gh-actions/github-action-yaml-config-query.git#itisopen"
   },
   "keywords": [
     "Github",
     "Action",
     "Javascript"
   ],
-  "author": "cloudposse",
+  "author": "itisopen",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/cloudposse-github-actions/github-action-yaml-config-query/issues"
+    "url": "https://github.com/itisopen-gh-actions/github-action-yaml-config-query/issues"
   },
-  "homepage": "https://github.com/cloudposse-github-actions/github-action-yaml-config-query/issues#readme",
+  "homepage": "https://github.com/itisopen-gh-actions/github-action-yaml-config-query/issues#readme",
   "jest": {
     "preset": "ts-jest",
     "verbose": true,

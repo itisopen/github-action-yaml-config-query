@@ -1,6 +1,6 @@
 name: 'Query YAML config as outputs'
 description: 'Query YAML config and map the result as outputs'
-author: hello@cloudposse.com
+author: hello@itisopen.net
 branding:
   icon: 'wind'
   color: 'white'
