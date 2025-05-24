@@ -3,7 +3,7 @@
 <!-- markdownlint-disable -->
 <a href="https://itisopen.net/homepage"><img src="https://github.com/itisopen/github-action-yaml-config-query/blob/itisopen/.github/banner.png?raw=true" alt="Project Banner"/></a><br/>
     <p align="right">
-<a href="https://github.com/itisopen/github-action-yaml-config-query/releases/latest"><img src="https://img.shields.io/github/release/itisopen/github-action-yaml-config-query.svg" alt="Latest Release"/></a><a href="https://slack.itisopen.net"><img src="https://slack.itisopen.net/badge.svg" alt="Slack Community"/></a></p>
+<a href="https://github.com/itisopen/github-action-yaml-config-query/releases/latest"><img src="https://img.shields.io/github/release/itisopen/github-action-yaml-config-query.svg" alt="Latest Release"/></a><a href="https://slack.itisopen.net"><img src="https://slack.itisopen.net/for-the-badge.svg" alt="Slack Community"/></a></p>
 <!-- markdownlint-restore -->
 
 <!--
@@ -218,8 +218,8 @@ This project is under active development, and we encourage contributions from ou
 
 
 
-Many thanks to the outstanding contributors to the Cloud Posse upstream contents. We appreciate your hard work and dedication to building scalable enterprise grade solutions.
-Many thanks also to the contributors to the ITisOpen upstream contents. We appreciate your hard work and dedication to extending the work of Cloud Posse to other cloud providers.
+- Many thanks to the outstanding contributors to the Cloud Posse upstream contents. We appreciate your hard work and dedication to building scalable enterprise grade solutions.
+- Many thanks also to the contributors to the ITisOpen upstream contents. We appreciate your hard work and dedication to extending the work of Cloud Posse to other cloud providers.
 
 <a href="https://github.com/itisopen/github-action-yaml-config-query/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=itisopen/github-action-yaml-config-query&max=24" />
@@ -240,6 +240,12 @@ In general, PRs are welcome. We follow the typical "fork-and-pull" Git workflow.
 ### 🌎 Slack Community
 
 Join our [Open Source Community](https://itisopen.net/slack?utm_source=github&utm_medium=readme&utm_campaign=itisopen/github-action-yaml-config-query&utm_content=slack) on Slack. It's **FREE** for everyone! Our "ITisOpen" community is where you get to talk with others who share a similar vision for how to rollout and manage infrastructure. This is the best place to talk shop, ask questions, solicit feedback, and work together as a community to build totally *open* infrastructure.
+<!-- markdownlint-disable -->
+<p className="mb-6 bg-blue-50 border-l-4 border-blue-400 p-4 rounded">
+<strong>Note:</strong> ITisOpen is leverages open-source projects from <a href="https://cloudposse.com/" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">Cloud Posse</a>. We encourage you to also join the Cloud Posse Slack community for even more collaboration and support: <a href="https://slack.cloudposse.com/" className="underline text-blue-700" target="_blank" rel="noopener noreferrer">slack.cloudposse.com</a>
+</p>
+<!-- markdownlint-restore -->
+
 
 ### 📰 Newsletter
 
